@@ -18,7 +18,7 @@ Página Web do Portfólio de Yasmina Andrade, realizado como desafio da escola A
 
 ## Acesso ao site
 
-Você pode [acessar o site]() para conhecê-lo melhor.
+Você pode [acessar o site](https://portfolio-yasmina.vercel.app/index.html) para conhecê-lo melhor.
 
 ## Mais informações do curso
 
