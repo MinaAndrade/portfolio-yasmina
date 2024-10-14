@@ -2,7 +2,7 @@
 
 Página Web do Portfólio de Yasmina Andrade, realizado como desafio da escola Alura.
 
-![pagina-inicial-portfolio](../portfolio-yasmina/assets/homepage.png)
+![pagina-inicial-portfolio](./assets/homepage.png)
 
 ## Sobre o projeto
 
@@ -19,7 +19,7 @@ Página Web do Portfólio de Yasmina Andrade, realizado como desafio da escola A
 
 ## Acesso ao site
 
-Você pode [acessar o site](https://portfolio.vercel.app/index.html) para conhecê-lo melhor.
+Você pode [acessar o site](https://portfolio-yasmina.vercel.app/index.html) para conhecê-lo melhor.
 
 ## Mais informações do curso
 
